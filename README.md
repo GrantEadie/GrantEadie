@@ -1,12 +1,20 @@
-## Hi, I'm Grant, a developer and designer pulled toward work that weaves technology into the fabric of community. I build tools that help organizations articulate their purpose, and I'm guided by a conviction that we can cultivate a deeper harmony between human life and the living world we inhabit.<img width="5589" height="47" alt="image" src="https://github.com/user-attachments/assets/dad6cdd4-60e0-4f9c-bfdb-c36c487697da" />
- <br> 
-WordPress & Drupal CMS
-PHP | HTML | CSS | JavaScript
-Photoshop, Illustrator, InDesign
-SEO Optimization
-Google Analytics
-Brand Development & Content Strategy
-Accessibility Standards (WCAG)
-UX/UI Design
-Copywriting<img width="702" height="581" alt="image" src="https://github.com/user-attachments/assets/b455288a-d46e-40d8-854a-c7d67a7b1f11" />
+## Hi, I'm Grant
 
+I'm a developer and designer pulled toward work that weaves technology into the fabric of community. I build tools that help organizations articulate their purpose, guided by a conviction that we can cultivate a deeper harmony between human life and the living world we inhabit.
+
+### What I work with
+
+**Development & CMS**  
+WordPress • Drupal • PHP • HTML • CSS • JavaScript
+
+**Design & Strategy**  
+Photoshop • Illustrator • InDesign • UX/UI Design • Brand Development • Content Strategy • Copywriting
+
+**Standards & Analytics**  
+WCAG Accessibility • SEO Optimization • Google Analytics
+
+---
+
+![Decorative divider](https://github.com/user-attachments/assets/dad6cdd4-60e0-4f9c-bfdb-c36c487697da)
+
+![Portfolio preview](https://github.com/user-attachments/assets/b455288a-d46e-40d8-854a-c7d67a7b1f11)
